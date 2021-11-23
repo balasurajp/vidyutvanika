@@ -150,8 +150,8 @@ The main goals of the brokers in the competition are listed below:
 
 In developing a successful autonomous trading broker for Power Trading Agent Competition, I have contributed in designing and developing the following modules.
   - A customer behaviour prediction based on price, weather and time using traditional time series forecasting techniques and deep learning models such as FFNs, CNNs and RNNs.
-  - A statistical supply behaviour modelling to reduce the overall cost for trading power in wholesale and balancing markets.
-  - A optmization strategy for balanced and profitable customer portfolio management in retail market.
+  - A risk adjusted strategy based on statistical supply behaviour modelling to reduce the overall cost for trading power in wholesale and balancing markets.
+  - A constrained optmization strategy for balanced and profitable customer portfolio management in retail market.
 
 _NOTE: There is only limited information regarding the project implementation and no project code here due to TCS confidentiality and Intellectual property rights_
 
